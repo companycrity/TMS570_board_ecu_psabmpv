@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    backup="$(PROJECTROOT)\tessy\backup"
+    configuration="$(PROJECTROOT)\UnitTestEnv\config\TMS570_GCC_UDE_CCS4_Config.xml"
+    database="$(PROJECTROOT)\tessy"
+    description=""
+    enableSourceRoot="true"
+    sourceRoot="$(PROJECTROOT)"
+    identifier="03cf5162-c14c-40e0-82c6-f3fc5b6a39b9"
+    location="$(PROJECTROOT)\tessy"
+    name="Ap_ePWM"
+    projectVersion="3"
+    tessyVersion="3.1.13"
+    isTemplate="false"/>

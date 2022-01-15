@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    backup="$(PROJECTROOT)\tessy\backup"
+    configuration="$(PROJECTROOT)\UnitTestEnv\config\TMS570_GCC_UDE_CCS4_Config.xml"
+    database="$(PROJECTROOT)\tessy"
+    description=""
+    enableSourceRoot="true"
+    sourceRoot="$(PROJECTROOT)\SF042A_7.3.0_0_NoUTP\VehDyn\src"
+    identifier="d06b98c2-b24d-420d-a918-47ff41067e3b"
+    location="$(PROJECTROOT)\tessy"
+    name="VehDyn"
+    projectVersion="3"
+    tessyVersion="3.1.13"
+    isTemplate="false"/>

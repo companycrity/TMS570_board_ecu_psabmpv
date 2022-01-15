@@ -1,0 +1,10 @@
+--- ..\..\..\..\SwProject\Source\GenDataOS\intvect.asm.bak
++++ ..\..\..\..\SwProject\Source\GenDataOS\intvect.asm
+@@ -9,7 +9,6 @@
+ osdVrmAsmGenMajRelNum     .set 5
+ osdVrmAsmGenMinRelNum     .set 6
+ 
+-   .emsg "Interrupt vector table must be reviewed according safety manual"
+ 
+    .sect ".oscode"
+ 
